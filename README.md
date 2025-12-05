@@ -59,7 +59,8 @@ Live Demo: https://kathail.github.io/NorthScrape-Dashboard/
 
 ## Disclaimer
 - This tool is for personal/educational use. Ensure compliance with applicable data privacy laws (e.g., PIPEDA, GDPR) when handling leads.
-- Privacy Notice
+
+## Privacy Notice
 - 100% client-side: All data is processed and stored in your browser's localStorage. Nothing is sent to any server.
 
 ## About
