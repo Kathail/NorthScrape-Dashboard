@@ -58,20 +58,20 @@ Live Demo: https://kathail.github.io/NorthScrape-Dashboard/
 
 
 ## Disclaimer
--This tool is for personal/educational use. Ensure compliance with applicable data privacy laws (e.g., PIPEDA, GDPR) when handling leads.
--Privacy Notice
--100% client-side: All data is processed and stored in your browser's localStorage. Nothing is sent to any server.
+- This tool is for personal/educational use. Ensure compliance with applicable data privacy laws (e.g., PIPEDA, GDPR) when handling leads.
+- Privacy Notice
+- 100% client-side: All data is processed and stored in your browser's localStorage. Nothing is sent to any server.
 
 ## About
--NorthScrape Dashboard is the companion tool to NorthScrape, providing a simple, private way to manage and action enriched leads after scraping.
+- NorthScrape Dashboard is the companion tool to NorthScrape, providing a simple, private way to manage and action enriched leads after scraping.
 
 ## Resources
 
--Live Demo → https://kathail.github.io/NorthScrape-Dashboard/
--Original Scraper → https://github.com/Kathail/NorthScrape
+- Live Demo → https://kathail.github.io/NorthScrape-Dashboard/
+- Original Scraper → https://github.com/Kathail/NorthScrape
 
 ## License
--MIT License — see LICENSE for details.
+- MIT License — see LICENSE for details.
 
 
 
